@@ -24,7 +24,7 @@ A parte mobile foi desenvolvida usando o expo, então para rodar o aplicativo no
 
 Após a instalação do expo é só usar o mesmos comandos que foram utilizados no Backend/frontend
 
-###Lembrando para que a aplicação funcionar sem problemas, deve executar o servidor backend.
+<h3>Lembrando para que a aplicação funcionar sem problemas, deve executar o servidor backend.</h3>
 
 Qualquer duvida é só me mandar uma mensagem pro meu email ou pelo github
 
