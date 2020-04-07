@@ -24,6 +24,8 @@ npm start
 dai é só acessar o http://localhost:3000
 
 
+<h2>Mobile</h2>
+
 A parte mobile foi desenvolvida usando o expo, então para rodar o aplicativo no celular ou em algum emulador, precisa instalar o expo na sua plataforma mobile.
 
 Após a instalação do expo é só usar o mesmos comandos que foram utilizados no Backend/frontend
