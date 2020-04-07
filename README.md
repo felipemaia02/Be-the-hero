@@ -1,13 +1,17 @@
 # Be-the-hero
 
-Para iniciar o servidor Express, deve entrar na pastas do backend e usar o seguinte comando:
+<h2>Backend</h2>
+
+Para iniciar o servidor Express, deve entrar na pasta do backend e usar o seguinte comando:
 ```
 npm install
 ```
-e logo em seguida depois de instalar usar o seguinte comando:
+logo em seguida depois de instalar usar o seguinte comando para iniciar o servidor:
 ```
 npm start
 ```
+
+<h2>Frontend</h2>
 
 para iniciar o frontend realizar o mesmo processo, ir na pasta do frontend e usar o seguinte comando:
 ```
